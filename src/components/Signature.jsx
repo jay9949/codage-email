@@ -27,7 +27,7 @@ const Signature = () => {
   const contactImage = isLightMode ? contactDark : contactLight;
 
   return (
-    <div className={`relative lg:w-full md:w-full md:h-[500px] mx:w-full mx:h-[606px] sm:w-[110%] sm:h-[490px] small:w-full small:h-[780px] ${isLightMode ? 'bg-white' : 'bg-[#000000]'}`}>
+    <div className={`relative lg:w-full md:w-full md:h-[500px] mx:w-full mx:h-[606px] sm:w-[110%] sm:h-[490px] small:w-full small:h-[790px] ${isLightMode ? 'bg-white' : 'bg-[#000000]'}`}>
       <div className={`xl:px-9 xl:py-6 lg:px-5 lg:py-3 mx:px-4 absolute right-6 bottom-6 flex top-[6%] left-[2%]`}>
         <div className='xl:pt-9 xl:pl-40 sxl:pt-9 sxl:pl-20 lg:pt-9 lg:pl-14 md:pt-9 md:pl-10 sm:pt-9 sm:pl-9 mx:pt-7 mx:pl-7 small:pt-14 small:pl-5'>
           <img src={logoImage} alt="logo" className='xl:w-[200px] lg:w-[180px] xl:h-[200px] lg:h-[180px] sm:w-[150px] sm:h-[150px] mx:w-32 mx:h-32' />
