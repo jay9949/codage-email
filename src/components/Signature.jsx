@@ -42,7 +42,7 @@ const Signature = () => {
             <h3 className={`font text-${isLightMode ? 'black' : 'white'}`}>315, Fortune Business Hub, Near shell petrol pump, Science city road, Ahmedabad. </h3>
           </div>
           <div className='md:ml-11 mx:pl-5 xl:pl-0 md:pt-7 sm:pt-3 mx:pt-3 md:flex font small:absolute mx:top-[13.5rem] small:top-[19rem] mx:left-[-11rem] small:left-[-9.5rem] sm:top-[14rem] sm:left-[-11rem] lg:top-[6rem] lg:left-0'>
-            <a href="mailto:https://codagehabitation.com/" className={`text-${isLightMode ? 'black' : 'white'}`}>https://codagehabitation.com</a>
+            <a href="https://codagehabitation.com/" className={`text-${isLightMode ? 'black' : 'white'}`}>https://codagehabitation.com</a>
             <a href="#" className={`md:border-b md:border-b-[#000EE6] text-[#000EE6] md:ml-[21rem] mx:ml-0 sm:ml-12 xl:w-[10rem] small:absolute mx:top-16 small:top-9 sm:top-10 sm:left-[-1.75rem] lg:left-[0rem] sm:pt-0 lg:top-7 small:left-[-0rem] font font-medium`}>Schedule Your Interview</a>
           </div>
           <div className='md:ml-11 pt-4 mx:pl-5 lg:pl-0 lg:absolute lg:top-[10rem] flex items-center'>
